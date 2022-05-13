@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="hdtt4list.docx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hdtt4note.docx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hdtt4req.docx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hdtt5list.docx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hdtt5note.docx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hdtt5req.docx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hdtt6list.docx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hdtt6note.docx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hdtt6req.docx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hdtt7list.docx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hdtt7note.docx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hdtt7req.docx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hdtt8list.docx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hdtt8note.docx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hdtt8req.docx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="dim.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="matrix.txt">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="output.txt">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="output4.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="output5.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="output6.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="output7.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="output8.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
